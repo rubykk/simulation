@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rubykk/simulation/issues"
   },
-  "homepage": "https://github.com/rubykk/simulation"
+  "homepage": "https://github.com/rubykk/simulation",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
